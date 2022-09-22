@@ -1,3 +1,8 @@
 Takeaway
+<<<<<<< HEAD
 In my room
 my bet
+=======
+In my rooms
+my pet
+>>>>>>> master
